@@ -1,0 +1,17 @@
+<!DOCTYPE html5>
+<html lang="pt-br">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+
+  <body>
+    <h1>semana 1</h1>
+    <hr size="1" />
+    <p>
+      Este é o resultado do primeiro exercício da primeira semana do curso
+      DEVinHouse 🙃
+    </p>
+  </body>
+</html>
